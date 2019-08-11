@@ -1,0 +1,39 @@
+table {
+    margin: 10px auto;
+    clear: both;
+    border: 1px solid #409EFF;
+    border-collapse: collapse;
+}
+
+tr {
+    height: 32px;
+    line-height: 32px;
+}
+
+td {
+    border: 1px solid #409EFF;
+}
+
+.w840 {
+    width: 840px;
+}
+
+.w320 {
+    width: 320px;
+}
+
+.w740 {
+    width: 320px;
+}
+
+
+.tbTitle {
+    width: 100px;
+    text-align: center;
+}
+
+.tbContent {
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
